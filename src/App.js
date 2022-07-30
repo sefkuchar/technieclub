@@ -32,7 +32,7 @@ export default function App() {
         <Card discord="삶은달걀#7732"  link="https://media.discordapp.net/attachments/995535483947995147/1001333094336434256/IMG_9652.jpg?width=695&height=676" />
         <Card discord="Seita#4841"  link="https://media.discordapp.net/attachments/995535483947995147/1001150460725559316/IMG_8103.gif?width=676&height=676" />
         <Card discord="Sqntiag0#8636"  link="https://media.discordapp.net/attachments/995535483947995147/1001078597995470868/Techie_club.........jpg?width=720&height=514" />
-        <Card discord="Barbiecue#0405"  link="https://media.discordapp.net/attachments/992015464312090664/993485084332150885/Untitled224_20220704195109.png?width=670&height=670" />
+        <Card discord="!Trinity|1EthFp#2708"  link="https://cdn.discordapp.com/attachments/995535483947995147/1000399748622209064/TECHIE.JPG" />
         <Card discord="Bill GATES Loves#4681"  link="https://media.discordapp.net/attachments/995535483947995147/1000973246344216606/unknown.png" />
         <Card discord="!RStefani#0396"  link="https://cdn.discordapp.com/attachments/995535483947995147/1000947604789657710/unknown.png" />
         <Card discord="BG8#9097"  link="https://media.discordapp.net/attachments/995535483947995147/1000840920612212797/IMG_5922.png" />
